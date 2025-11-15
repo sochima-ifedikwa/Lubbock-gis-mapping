@@ -12,35 +12,25 @@ My purpose in writing this software was to gain hands-on experience with GIS con
 
 To build the application, I used the following tools:
 
--Visual Studio Code — Primary editor for HTML, CSS, and JavaScript.
-
--Google Maps JavaScript API — Used to render the map, create markers, load icons, and handle interactions.
-
--Git / GitHub — Version control and project hosting.
-
---Live Server extension (VS Code) — For quick local development and auto-refresh.
+- Visual Studio Code — Primary editor for HTML, CSS, and JavaScript.
+- Google Maps JavaScript API — Used to render the map, create markers, load icons, and handle interactions.
+- Git / GitHub — Version control and project hosting.
+- Live Server extension (VS Code) — For quick local development and auto-refresh.
 
 Programming Languages & Libraries
-
--HTML5 for UI structure
-
--CSS3 for layout and map styling
-
--JavaScript (ES6) for map initialization, marker creation, and event handling
-
--Google Maps JavaScript API for all GIS functionality
+- HTML5 for UI structure
+- CSS3 for layout and map styling
+- JavaScript (ES6) for map initialization, marker creation, and event handling
+- Google Maps JavaScript API for all GIS functionality
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Google Maps JavaScript API Documentation](https://developers.google.com/maps/documentation/javascript/)
 * [Google Maps Marker Customization Guide](https://developers.google.com/maps/documentation/javascript/markers)
-* Y
+* [Traversy Media](https://www.youtube.com/watch?v=Zxf1mnP5zcw)
 
 
 # Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
 * Implement category filters (e.g., only show parks, restaurants, etc.)
 * Add a sidebar listing locations with click-to-zoom functionality
 * Improve mobile responsiveness and UI design
